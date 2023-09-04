@@ -1,7 +1,7 @@
 {
   "SaveName": "Warcry Monsters and Thralls",
-  "EpochTime": 1687709996,
-  "Date": "6/25/2023 6:19:56 PM",
+  "EpochTime": 1693854021,
+  "Date": "9/4/2023 9:00:21 PM",
   "VersionNumber": "v13.2.2",
   "GameMode": "Beastiary & Others",
   "GameType": "Game",
@@ -257,6 +257,10 @@
       {
         "displayed": "MegaContainer",
         "normalized": "megacontainer"
+      },
+      {
+        "displayed": "Operative",
+        "normalized": "operative"
       }
     ]
   },
@@ -1011,11 +1015,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 47.2558479,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": -60.3023643,
-        "rotX": -9.759418E-07,
+        "rotX": -1.20553534E-06,
         "rotY": 180.018921,
-        "rotZ": 4.63749558E-07,
+        "rotZ": -3.44884165E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1076,11 +1080,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 49.5170021,
-        "posY": 1.4814992,
+        "posY": 1.48149908,
         "posZ": -60.5741844,
-        "rotX": -3.26000475E-07,
+        "rotX": -2.47084728E-07,
         "rotY": 180.017654,
-        "rotZ": 7.658652E-07,
+        "rotZ": 8.578976E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1141,11 +1145,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 52.5228424,
-        "posY": 1.4814986,
+        "posY": 1.48149872,
         "posZ": -60.5720978,
-        "rotX": 1.01882415E-06,
+        "rotX": -4.80911844E-08,
         "rotY": 180.042847,
-        "rotZ": -1.6819148E-06,
+        "rotZ": 7.83384849E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1206,11 +1210,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 45.75515,
-        "posY": 1.48151493,
+        "posY": 1.48151457,
         "posZ": -66.31242,
-        "rotX": 3.009572E-06,
-        "rotY": 179.9976,
-        "rotZ": -2.91273718E-05,
+        "rotX": -2.73648538E-06,
+        "rotY": 179.997635,
+        "rotZ": -2.252179E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1271,11 +1275,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 50.3042755,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": -66.81921,
-        "rotX": 4.09153216E-07,
+        "rotX": -9.00316763E-08,
         "rotY": 180.024139,
-        "rotZ": -9.5171265E-07,
+        "rotZ": 1.08411928E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1336,11 +1340,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 54.9957581,
-        "posY": 1.481499,
+        "posY": 1.48149872,
         "posZ": -66.5624,
-        "rotX": 9.083114E-07,
+        "rotX": 2.73560374E-07,
         "rotY": 180.019958,
-        "rotZ": -6.979232E-08,
+        "rotZ": -1.64186145E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1401,11 +1405,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 55.77424,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": -60.82078,
-        "rotX": -3.30127648E-07,
+        "rotX": 4.704253E-07,
         "rotY": 180.026718,
-        "rotZ": -1.01013377E-07,
+        "rotZ": -1.35325934E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1466,11 +1470,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 58.2907028,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": -66.81746,
-        "rotX": 7.06685739E-07,
+        "rotX": -8.601617E-07,
         "rotY": 180.026672,
-        "rotZ": 2.60260066E-07,
+        "rotZ": 1.38697146E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1531,11 +1535,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 59.79737,
-        "posY": 1.481499,
+        "posY": 1.4814992,
         "posZ": -61.3148422,
-        "rotX": -5.629887E-07,
+        "rotX": -5.602645E-07,
         "rotY": 180.0197,
-        "rotZ": 1.39630467E-08,
+        "rotZ": -4.2180833E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1596,11 +1600,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 62.0350075,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": -66.56494,
-        "rotX": 2.48530728E-06,
+        "rotX": -1.78967446E-06,
         "rotY": 180.022125,
-        "rotZ": 2.75155548E-06,
+        "rotZ": 3.46061415E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1661,11 +1665,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 64.0357,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": -66.56805,
-        "rotX": 7.44820454E-07,
+        "rotX": 1.14289651E-06,
         "rotY": 180.019638,
-        "rotZ": 7.692913E-08,
+        "rotZ": -2.15105661E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1728,9 +1732,9 @@
         "posX": 64.79657,
         "posY": 1.4815073,
         "posZ": -61.8142242,
-        "rotX": -7.17803857E-07,
+        "rotX": 7.28962868E-06,
         "rotY": 180.0276,
-        "rotZ": -9.286752E-06,
+        "rotZ": -5.53974041E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1793,9 +1797,9 @@
         "posX": 68.5305939,
         "posY": 1.48150778,
         "posZ": -67.3491058,
-        "rotX": -4.0756313E-06,
+        "rotX": -6.71202224E-06,
         "rotY": 180.016434,
-        "rotZ": 1.28095853E-05,
+        "rotZ": 3.667553E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1855,12 +1859,12 @@
       "GUID": "9273bb",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -59.1530571,
-        "posY": 1.48149657,
-        "posZ": 14.3433208,
-        "rotX": -0.0003578945,
-        "rotY": 0.011310786,
-        "rotZ": 0.000268417672,
+        "posX": -59.1530533,
+        "posY": 1.48149681,
+        "posZ": 14.3433285,
+        "rotX": 0.00039755748,
+        "rotY": 0.0111844409,
+        "rotZ": -0.000346072455,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1880,6 +1884,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2050,9 +2055,9 @@
         "posX": -51.2997322,
         "posY": 1.481499,
         "posZ": 20.0307827,
-        "rotX": -2.85898949E-07,
+        "rotX": -3.16769075E-07,
         "rotY": 0.0212505627,
-        "rotZ": 5.339988E-07,
+        "rotZ": 5.25645135E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2072,6 +2077,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2186,9 +2192,9 @@
         "posX": -57.24947,
         "posY": 1.48149884,
         "posZ": 19.7544289,
-        "rotX": -7.490077E-08,
-        "rotY": 0.03394473,
-        "rotZ": 4.72571656E-07,
+        "rotX": -8.42063841E-08,
+        "rotY": 0.033927083,
+        "rotZ": 1.43036357E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2208,6 +2214,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2365,9 +2372,9 @@
         "posX": -33.0,
         "posY": 1.481499,
         "posZ": 19.8000011,
-        "rotX": 2.822618E-06,
+        "rotX": 7.21035E-07,
         "rotY": 359.97995,
-        "rotZ": 1.8804767E-06,
+        "rotZ": -9.739617E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2387,6 +2394,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2498,12 +2506,12 @@
       "GUID": "f4b5fe",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -55.0030746,
-        "posY": 1.54176116,
-        "posZ": 13.6975861,
-        "rotX": 359.691559,
-        "rotY": 0.008624224,
-        "rotZ": 358.0713,
+        "posX": -55.00306,
+        "posY": 1.54171562,
+        "posZ": 13.6975708,
+        "rotX": 359.8067,
+        "rotY": 0.00755847152,
+        "rotZ": 358.043121,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2523,6 +2531,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2637,9 +2646,9 @@
         "posX": -50.1839371,
         "posY": 1.481499,
         "posZ": 13.7083235,
-        "rotX": 9.34662864E-07,
+        "rotX": -5.170005E-07,
         "rotY": 359.994141,
-        "rotZ": 8.46298349E-07,
+        "rotZ": 1.08588972E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2659,6 +2668,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2840,9 +2850,9 @@
         "posX": -37.8000031,
         "posY": 1.481499,
         "posZ": 19.8000011,
-        "rotX": -7.804706E-07,
+        "rotX": -4.335981E-07,
         "rotY": 359.9916,
-        "rotZ": -9.304226E-07,
+        "rotZ": -5.61924651E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2862,6 +2872,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -2963,9 +2974,9 @@
         "posX": -35.4,
         "posY": 1.481499,
         "posZ": 19.8000011,
-        "rotX": -7.80113737E-07,
+        "rotX": 1.5448974E-07,
         "rotY": 359.97995,
-        "rotZ": -7.88393E-06,
+        "rotZ": -3.375101E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2985,6 +2996,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3155,9 +3167,9 @@
         "posX": -58.37514,
         "posY": 1.481499,
         "posZ": 9.111138,
-        "rotX": 6.494132E-07,
+        "rotX": -1.51408472E-06,
         "rotY": 359.993134,
-        "rotZ": 1.3959193E-06,
+        "rotZ": -1.0613353E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3177,6 +3189,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3358,9 +3371,9 @@
         "posX": -33.0,
         "posY": 1.481499,
         "posZ": 17.4000015,
-        "rotX": -1.90807646E-06,
+        "rotX": -8.464905E-07,
         "rotY": 359.97995,
-        "rotZ": -1.288529E-06,
+        "rotZ": 2.03975128E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3380,6 +3393,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3492,11 +3506,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -30.7500019,
-        "posY": 1.481499,
+        "posY": 1.48149908,
         "posZ": 17.25,
-        "rotX": 1.1469416E-06,
+        "rotX": 1.088362E-06,
         "rotY": 359.97995,
-        "rotZ": 4.65844948E-07,
+        "rotZ": 3.83104521E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3516,6 +3530,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3620,9 +3635,9 @@
         "posX": -35.4,
         "posY": 1.481499,
         "posZ": 17.4000015,
-        "rotX": 2.81575041E-07,
+        "rotX": 2.75233248E-07,
         "rotY": 359.984253,
-        "rotZ": -3.33442313E-06,
+        "rotZ": 3.282281E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3642,6 +3657,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3746,9 +3762,9 @@
         "posX": -37.5,
         "posY": 1.481499,
         "posZ": 16.5,
-        "rotX": -1.69831978E-07,
+        "rotX": -9.988155E-10,
         "rotY": 359.98822,
-        "rotZ": -1.54083551E-07,
+        "rotZ": -7.73315136E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3768,6 +3784,7 @@
       },
       "Tags": [
         "Chaos Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -3882,9 +3899,9 @@
         "posX": -20.04583,
         "posY": 1.48150706,
         "posZ": 19.0851822,
-        "rotX": -5.473027E-07,
-        "rotY": -0.00491806353,
-        "rotZ": -8.24756353E-06,
+        "rotX": -1.06762172E-06,
+        "rotY": -0.004918063,
+        "rotZ": -9.42815E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3904,6 +3921,7 @@
       },
       "Tags": [
         "Death Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4061,9 +4079,9 @@
         "posX": -14.3438988,
         "posY": 1.48150718,
         "posZ": 19.0088043,
-        "rotX": 9.555712E-07,
+        "rotX": -8.154194E-07,
         "rotY": 359.977966,
-        "rotZ": -8.264446E-06,
+        "rotZ": -8.664313E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4083,6 +4101,7 @@
       },
       "Tags": [
         "Death Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4184,7 +4203,7 @@
         "posX": -9.078796,
         "posY": 1.48269892,
         "posZ": 25.705265,
-        "rotX": -4.55454E-08,
+        "rotX": -4.55454057E-08,
         "rotY": 179.99144,
         "rotZ": -2.26275191E-07,
         "scaleX": 1.19999981,
@@ -4296,9 +4315,9 @@
         "posX": 2.13143444,
         "posY": 1.481499,
         "posZ": 19.9732323,
-        "rotX": 3.3904918E-08,
+        "rotX": 1.02626522E-07,
         "rotY": 359.985229,
-        "rotZ": 2.40058716E-06,
+        "rotZ": 3.360453E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4318,6 +4337,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4419,12 +4439,12 @@
       "GUID": "85d472",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -0.7474929,
+        "posX": -0.74749285,
         "posY": 1.481499,
         "posZ": 19.9740868,
-        "rotX": 6.563209E-07,
+        "rotX": 7.7665095E-07,
         "rotY": 359.979828,
-        "rotZ": -1.26372265E-06,
+        "rotZ": -1.05154322E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4444,6 +4464,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4545,12 +4566,12 @@
       "GUID": "ae5aef",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 0.693524659,
+        "posX": 0.6935248,
         "posY": 1.481499,
         "posZ": 19.9734955,
-        "rotX": 7.774529E-07,
+        "rotX": 1.00300966E-07,
         "rotY": 359.977753,
-        "rotZ": 1.74608181E-06,
+        "rotZ": -1.41400722E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4570,6 +4591,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4671,12 +4693,12 @@
       "GUID": "4923d0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 0.325170159,
-        "posY": 1.48155165,
+        "posX": 0.325170219,
+        "posY": 1.48155761,
         "posZ": 17.63618,
-        "rotX": -0.0005455122,
+        "rotX": -0.000332442985,
         "rotY": 359.990753,
-        "rotZ": -0.000262804562,
+        "rotZ": -5.4696633E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4696,6 +4718,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4808,11 +4831,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -1.39178872,
-        "posY": 1.48153722,
-        "posZ": 17.6356964,
-        "rotX": 0.00300230179,
+        "posY": 1.48155713,
+        "posZ": 17.6356983,
+        "rotX": 0.000120837096,
         "rotY": 359.985229,
-        "rotZ": -0.00376065285,
+        "rotZ": -0.000312222983,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4832,6 +4855,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -4946,9 +4970,9 @@
         "posX": 2.041934,
         "posY": 1.48149908,
         "posZ": 17.6361313,
-        "rotX": -1.404078E-07,
+        "rotX": -6.762624E-07,
         "rotY": 359.9926,
-        "rotZ": 1.14730221E-06,
+        "rotZ": -1.5165424E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4968,6 +4992,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5067,11 +5092,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 3.571116,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 19.9734154,
-        "rotX": -6.243282E-07,
+        "rotX": -5.56064151E-07,
         "rotY": 359.992371,
-        "rotZ": 1.635864E-06,
+        "rotZ": 1.37197787E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5091,6 +5116,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5202,12 +5228,12 @@
       "GUID": "22c3a8",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 5.01084852,
-        "posY": 1.4931004,
-        "posZ": 19.9733257,
-        "rotX": 0.4483241,
-        "rotY": 0.000916136836,
-        "rotZ": 0.6846482,
+        "posX": 5.010848,
+        "posY": 1.49311447,
+        "posZ": 19.9733276,
+        "rotX": 0.443961769,
+        "rotY": 0.000898068363,
+        "rotZ": 0.688897967,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5227,6 +5253,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5341,9 +5368,9 @@
         "posX": 3.759173,
         "posY": 1.481499,
         "posZ": 17.6361237,
-        "rotX": 1.04522655E-06,
+        "rotX": -1.27693636E-06,
         "rotY": 359.976746,
-        "rotZ": 1.84884618E-06,
+        "rotZ": 6.72666047E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5363,6 +5390,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5474,12 +5502,12 @@
       "GUID": "412ab4",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 5.476145,
-        "posY": 1.48156512,
-        "posZ": 17.6362133,
-        "rotX": -5.32987324E-05,
-        "rotY": 359.98,
-        "rotZ": 0.000268244359,
+        "posX": 5.47614431,
+        "posY": 1.48155165,
+        "posZ": 17.6362114,
+        "rotX": -0.000817754946,
+        "rotY": 359.97995,
+        "rotZ": 0.00403430453,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5499,6 +5527,7 @@
       },
       "Tags": [
         "Death Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5669,9 +5698,9 @@
         "posX": 15.6,
         "posY": 1.58501053,
         "posZ": 18.0,
-        "rotX": 4.538509E-06,
+        "rotX": 4.61948866E-06,
         "rotY": 0.0263900552,
-        "rotZ": -3.60524814E-06,
+        "rotZ": -3.60518038E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5691,6 +5720,7 @@
       },
       "Tags": [
         "Destruction Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5789,12 +5819,12 @@
       "GUID": "30de02",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 20.39996,
+        "posX": 20.3999577,
         "posY": 1.48150754,
         "posZ": 17.399992,
-        "rotX": -6.757467E-06,
-        "rotY": 0.000171247433,
-        "rotZ": 7.50290837E-06,
+        "rotX": -7.10262157E-06,
+        "rotY": 0.000172002066,
+        "rotZ": 5.112919E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5814,6 +5844,7 @@
       },
       "Tags": [
         "Destruction Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -5915,9 +5946,9 @@
         "posX": 24.6,
         "posY": 1.481499,
         "posZ": 17.7,
-        "rotX": -8.689448E-07,
+        "rotX": 1.36334037E-07,
         "rotY": 359.966,
-        "rotZ": -6.143232E-07,
+        "rotZ": 5.125177E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5937,6 +5968,7 @@
       },
       "Tags": [
         "Destruction Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -6174,9 +6206,9 @@
         "posX": 34.8000031,
         "posY": 1.481499,
         "posZ": 17.7,
-        "rotX": 2.79361984E-07,
+        "rotX": -8.813005E-07,
         "rotY": 359.978363,
-        "rotZ": -1.93704136E-06,
+        "rotZ": -6.674316E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6196,6 +6228,7 @@
       },
       "Tags": [
         "Destruction Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -6310,9 +6343,9 @@
         "posX": 37.861412,
         "posY": 1.481499,
         "posZ": 16.8877869,
-        "rotX": 1.61098683E-06,
+        "rotX": -3.1431702E-07,
         "rotY": 359.98,
-        "rotZ": -4.08989E-06,
+        "rotZ": -7.1719E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6332,6 +6365,7 @@
       },
       "Tags": [
         "Destruction Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -6489,9 +6523,9 @@
         "posX": 41.7814255,
         "posY": 1.48149884,
         "posZ": 16.887785,
-        "rotX": -2.03516677E-07,
+        "rotX": -1.22919221E-06,
         "rotY": 359.980469,
-        "rotZ": -4.602027E-07,
+        "rotZ": -1.32047182E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6511,6 +6545,7 @@
       },
       "Tags": [
         "Destruction Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -6612,9 +6647,9 @@
         "posX": 39.82142,
         "posY": 1.481499,
         "posZ": 16.8877869,
-        "rotX": 1.620871E-06,
+        "rotX": 1.587507E-06,
         "rotY": 359.988434,
-        "rotZ": 3.46681873E-07,
+        "rotZ": 2.13283087E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6634,6 +6669,7 @@
       },
       "Tags": [
         "Destruction Thralls",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -6791,7 +6827,7 @@
         "posX": 58.34645,
         "posY": 1.482499,
         "posZ": 21.8590527,
-        "rotX": -4.234664E-07,
+        "rotX": -4.23466446E-07,
         "rotY": 179.986984,
         "rotZ": 6.16302E-07,
         "scaleX": 1.0,
@@ -6847,9 +6883,9 @@
         "posX": 56.2500038,
         "posY": 1.481499,
         "posZ": 16.6500015,
-        "rotX": 8.55004544E-07,
+        "rotX": 8.280625E-07,
         "rotY": 359.988831,
-        "rotZ": 7.39441759E-07,
+        "rotZ": -4.47832122E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6868,6 +6904,7 @@
         "b": 0.0
       },
       "Tags": [
+        "Operative",
         "Order Monsters",
         "warcry"
       ],
@@ -6960,9 +6997,9 @@
         "posX": 60.0941734,
         "posY": 1.48149884,
         "posZ": 16.4467,
-        "rotX": -9.108495E-07,
-        "rotY": 359.9818,
-        "rotZ": 1.0536229E-06,
+        "rotX": 2.86440756E-08,
+        "rotY": 359.981842,
+        "rotZ": -3.560217E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6981,6 +7018,7 @@
         "b": 0.0
       },
       "Tags": [
+        "Operative",
         "Order Monsters",
         "warcry"
       ],
@@ -7129,9 +7167,9 @@
         "posX": -54.3000031,
         "posY": 1.481499,
         "posZ": 8.400001,
-        "rotX": -8.59096929E-07,
-        "rotY": -0.00202329038,
-        "rotZ": -2.69252126E-07,
+        "rotX": -2.33628256E-07,
+        "rotY": -0.00202329061,
+        "rotZ": -1.07622145E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7151,6 +7189,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -7315,11 +7354,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -50.4042969,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 8.78420448,
-        "rotX": 1.47274619E-07,
+        "rotX": 1.62136473E-07,
         "rotY": 0.000249890756,
-        "rotZ": -3.84777877E-07,
+        "rotZ": -3.68414874E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7339,6 +7378,7 @@
       },
       "Tags": [
         "Chaos Monsters",
+        "Operative",
         "warcry"
       ],
       "LayoutGroupSortIndex": 0,
@@ -7487,7 +7527,7 @@
       "GridProjection": false,
       "HideWhenFaceDown": false,
       "Hands": false,
-      "LuaScript": "all_setnames = {\"Chaos Monsters\", \"Chaos Thralls\", \"Death Monsters\", \"Death Thralls\", \r\n\"Destruction Monsters\", \"Destruction Thralls\", \"Order Monsters\"} -- all different tags for groups\r\n\r\n function repopulateBags()\r\n  for _, setname in ipairs(all_setnames) do\r\n    local container = getObjectsWithAllTags({setname, \"Container\"})[1]\r\n    local container_data = container.getData()\r\n    container_data.ContainedObjects = {}\r\n\r\n    for _, obj in ipairs(getObjectsWithTag(setname)) do\r\n      if obj.hasTag(\"Container\") then\r\n        container = obj\r\n        break\r\n      elseif container == nil then\r\n        log(\"bag(s) not tagged correctly\")\r\n      end\r\n    end\r\n\r\n    if container ~= nil then\r\n      for _, obj in ipairs(getObjectsWithTag(setname)) do\r\n        if obj.hasTag(\"abilityCard\") or obj.hasTag(\"Container\") then\r\n          obj.removeTag(\"warcry\")  -- Remove the \"warcry\" tag from the object\r\n        else\r\n          obj.addTag(\"warcry\")  -- Add the \"warcry\" tag to the object\r\n        end\r\n        if obj.hasTag(\"warcry\") or obj.hasTag(\"abilityCard\") then\r\n          table.insert(container_data.ContainedObjects, obj.getData())\r\n        elseif obj.hasTag(\"\") then\r\n          log(\"fail\")\r\n        end\r\n      end\r\n    end\r\n\r\n      container.destruct()\r\n      spawnObjectData({data=container_data})\r\n    end\r\n  end",
+      "LuaScript": "all_setnames = {\"Chaos Monsters\", \"Chaos Thralls\", \"Death Monsters\", \"Death Thralls\", \r\n\"Destruction Monsters\", \"Destruction Thralls\", \"Order Monsters\"} -- all different tags for groups\r\n\r\nfunction repopulateBags()\r\n  for _, setname in ipairs(all_setnames) do\r\n    local container = getObjectsWithAllTags({setname, \"Container\"})[1]\r\n    local container_data = container.getData()\r\n    container_data.ContainedObjects = {}\r\n\r\n    for _, obj in ipairs(getObjectsWithTag(setname)) do\r\n      if obj.hasTag(\"Container\") then\r\n        container = obj\r\n        break\r\n      elseif container == nil then\r\n        log(\"bag(s) not tagged correctly\")\r\n      end\r\n    end\r\n\r\n    if container ~= nil then\r\n      for _, obj in ipairs(getObjectsWithTag(setname)) do\r\n        if obj.hasTag(\"fighterCards\") or obj.hasTag(\"abilityCard\") or obj.hasTag(\"Container\") then\r\n          obj.removeTag(\"warcry\")  -- Remove the \"warcry\" tag from the object\r\n        else\r\n          obj.addTag(\"warcry\")  -- Add the \"warcry\" tag to the object\r\n          obj.addTag(\"Operative\")\r\n        end  \r\n        if obj.hasTag(\"warcry\") or obj.hasTag(\"abilityCard\") or obj.hasTag(\"fighterCards\") then\r\n          table.insert(container_data.ContainedObjects, obj.getData())\r\n        end\r\n      end\r\n    end\r\n\r\n      container.destruct()\r\n      spawnObjectData({data=container_data})\r\n    end\r\n  end",
       "LuaScriptState": "",
       "XmlUI": "<Button onClick=\"repopulateBags()\" position=\"0 0 -20\" rotation=\"0 0 0\" height=\"100\" width=\"200\"></Button>"
     },
@@ -7498,9 +7538,9 @@
         "posX": -61.38252,
         "posY": 1.48149931,
         "posZ": 28.3504047,
-        "rotX": 4.484641E-09,
+        "rotX": -2.14224549E-08,
         "rotY": 180.070938,
-        "rotZ": 1.25854038E-08,
+        "rotZ": -1.626702E-08,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7550,12 +7590,12 @@
       "GUID": "9af938",
       "Name": "Custom_PDF",
       "Transform": {
-        "posX": -36.449234,
-        "posY": 1.70694208,
+        "posX": -36.44923,
+        "posY": 1.70694268,
         "posZ": 34.04618,
         "rotX": 357.6935,
-        "rotY": 180.05246,
-        "rotZ": -1.69359882E-05,
+        "rotY": 180.052414,
+        "rotZ": -1.82913263E-05,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7608,9 +7648,9 @@
         "posX": -16.049839,
         "posY": 1.48149931,
         "posZ": 36.45013,
-        "rotX": -5.67116238E-08,
+        "rotX": -5.85706452E-08,
         "rotY": 179.986023,
-        "rotZ": 1.82652347E-08,
+        "rotZ": 1.60388272E-08,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7663,9 +7703,9 @@
         "posX": 9.300141,
         "posY": 1.48149931,
         "posZ": 34.8001556,
-        "rotX": -2.04445634E-08,
+        "rotX": -1.5907645E-08,
         "rotY": 179.953186,
-        "rotZ": 4.006085E-09,
+        "rotZ": -1.231385E-08,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7718,9 +7758,9 @@
         "posX": 25.9500027,
         "posY": 1.48149931,
         "posZ": 35.8500061,
-        "rotX": -6.791368E-09,
+        "rotX": -1.16546106E-08,
         "rotY": 180.023346,
-        "rotZ": -3.310627E-09,
+        "rotZ": -6.187672E-09,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7773,9 +7813,9 @@
         "posX": 44.25012,
         "posY": 1.48149931,
         "posZ": 36.75015,
-        "rotX": 9.829423E-09,
+        "rotX": 1.04896705E-08,
         "rotY": 179.9794,
-        "rotZ": -5.125605E-08,
+        "rotZ": -4.26628759E-08,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7828,9 +7868,9 @@
         "posX": 63.0000038,
         "posY": 1.48149931,
         "posZ": 35.1000023,
-        "rotX": 2.12444462E-08,
+        "rotX": 2.80104135E-08,
         "rotY": 180.02092,
-        "rotZ": -2.11055333E-08,
+        "rotZ": -2.40653311E-08,
         "scaleX": 2.800913,
         "scaleY": 1.0,
         "scaleZ": 2.800913
@@ -7883,9 +7923,9 @@
         "posX": -30.45,
         "posY": 1.481499,
         "posZ": 19.6500015,
-        "rotX": 6.782635E-07,
-        "rotY": 6.439238E-05,
-        "rotZ": -1.06514585E-06,
+        "rotX": 2.0984096E-06,
+        "rotY": 6.439988E-05,
+        "rotZ": -3.81779216E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8015,9 +8055,9 @@
         "posX": -54.8999939,
         "posY": 1.488579,
         "posZ": 26.9999962,
-        "rotX": 5.13995637E-08,
+        "rotX": 6.533556E-08,
         "rotY": 359.974762,
-        "rotZ": -1.84828878E-07,
+        "rotZ": -1.59211126E-07,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -8086,12 +8126,12 @@
           "GUID": "9273bb",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": -59.1530571,
-            "posY": 1.48149657,
-            "posZ": 14.3433208,
-            "rotX": -0.0003578945,
-            "rotY": 0.011310786,
-            "rotZ": 0.000268417672,
+            "posX": -59.1530533,
+            "posY": 1.48149681,
+            "posZ": 14.3433285,
+            "rotX": 0.00039755748,
+            "rotY": 0.0111844409,
+            "rotZ": -0.000346072455,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8111,6 +8151,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -8225,9 +8266,9 @@
             "posX": -51.2997322,
             "posY": 1.481499,
             "posZ": 20.0307827,
-            "rotX": -2.85898949E-07,
+            "rotX": -3.16769075E-07,
             "rotY": 0.0212505627,
-            "rotZ": 5.339988E-07,
+            "rotZ": 5.25645135E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8247,6 +8288,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -8361,9 +8403,9 @@
             "posX": -57.24947,
             "posY": 1.48149884,
             "posZ": 19.7544289,
-            "rotX": -7.490077E-08,
-            "rotY": 0.03394473,
-            "rotZ": 4.72571656E-07,
+            "rotX": -8.42063841E-08,
+            "rotY": 0.033927083,
+            "rotZ": 1.43036357E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8383,6 +8425,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -8481,12 +8524,12 @@
           "GUID": "f4b5fe",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": -55.0030746,
-            "posY": 1.54176116,
-            "posZ": 13.6975861,
-            "rotX": 359.691559,
-            "rotY": 0.008624224,
-            "rotZ": 358.0713,
+            "posX": -55.00306,
+            "posY": 1.54171562,
+            "posZ": 13.6975708,
+            "rotX": 359.8067,
+            "rotY": 0.00755847152,
+            "rotZ": 358.043121,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8506,6 +8549,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -8620,9 +8664,9 @@
             "posX": -50.1839371,
             "posY": 1.481499,
             "posZ": 13.7083235,
-            "rotX": 9.34662864E-07,
+            "rotX": -5.170005E-07,
             "rotY": 359.994141,
-            "rotZ": 8.46298349E-07,
+            "rotZ": 1.08588972E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8642,6 +8686,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -8823,9 +8868,9 @@
             "posX": -58.37514,
             "posY": 1.481499,
             "posZ": 9.111138,
-            "rotX": 6.494132E-07,
+            "rotX": -1.51408472E-06,
             "rotY": 359.993134,
-            "rotZ": 1.3959193E-06,
+            "rotZ": -1.0613353E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -8845,6 +8890,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9026,9 +9072,9 @@
             "posX": -54.3000031,
             "posY": 1.481499,
             "posZ": 8.400001,
-            "rotX": -8.59096929E-07,
-            "rotY": -0.00202329038,
-            "rotZ": -2.69252126E-07,
+            "rotX": -2.33628256E-07,
+            "rotY": -0.00202329061,
+            "rotZ": -1.07622145E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9048,6 +9094,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9212,11 +9259,11 @@
           "Name": "Custom_Model",
           "Transform": {
             "posX": -50.4042969,
-            "posY": 1.481499,
+            "posY": 1.48149884,
             "posZ": 8.78420448,
-            "rotX": 1.47274619E-07,
+            "rotX": 1.62136473E-07,
             "rotY": 0.000249890756,
-            "rotZ": -3.84777877E-07,
+            "rotZ": -3.68414874E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9236,6 +9283,7 @@
           },
           "Tags": [
             "Chaos Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9350,9 +9398,9 @@
             "posX": -61.38252,
             "posY": 1.48149931,
             "posZ": 28.3504047,
-            "rotX": 4.484641E-09,
+            "rotX": -2.14224549E-08,
             "rotY": 180.070938,
-            "rotZ": 1.25854038E-08,
+            "rotZ": -1.626702E-08,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -9407,9 +9455,9 @@
         "posX": -34.1999435,
         "posY": 1.488581,
         "posZ": 27.3000526,
-        "rotX": -2.7529517E-05,
-        "rotY": 0.0147238867,
-        "rotZ": 6.139969E-05,
+        "rotX": -2.4130657E-05,
+        "rotY": 0.01481162,
+        "rotZ": 5.93969271E-05,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -9481,9 +9529,9 @@
             "posX": -33.0,
             "posY": 1.481499,
             "posZ": 19.8000011,
-            "rotX": 2.822618E-06,
+            "rotX": 7.21035E-07,
             "rotY": 359.97995,
-            "rotZ": 1.8804767E-06,
+            "rotZ": -9.739617E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9503,6 +9551,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9617,9 +9666,9 @@
             "posX": -37.8000031,
             "posY": 1.481499,
             "posZ": 19.8000011,
-            "rotX": -7.804706E-07,
+            "rotX": -4.335981E-07,
             "rotY": 359.9916,
-            "rotZ": -9.304226E-07,
+            "rotZ": -5.61924651E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9639,6 +9688,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9740,9 +9790,9 @@
             "posX": -35.4,
             "posY": 1.481499,
             "posZ": 19.8000011,
-            "rotX": -7.80113737E-07,
+            "rotX": 1.5448974E-07,
             "rotY": 359.97995,
-            "rotZ": -7.88393E-06,
+            "rotZ": -3.375101E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9762,6 +9812,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -9876,9 +9927,9 @@
             "posX": -33.0,
             "posY": 1.481499,
             "posZ": 17.4000015,
-            "rotX": -1.90807646E-06,
+            "rotX": -8.464905E-07,
             "rotY": 359.97995,
-            "rotZ": -1.288529E-06,
+            "rotZ": 2.03975128E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -9898,6 +9949,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10010,11 +10062,11 @@
           "Name": "Custom_Model",
           "Transform": {
             "posX": -30.7500019,
-            "posY": 1.481499,
+            "posY": 1.48149908,
             "posZ": 17.25,
-            "rotX": 1.1469416E-06,
+            "rotX": 1.088362E-06,
             "rotY": 359.97995,
-            "rotZ": 4.65844948E-07,
+            "rotZ": 3.83104521E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10034,6 +10086,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10138,9 +10191,9 @@
             "posX": -35.4,
             "posY": 1.481499,
             "posZ": 17.4000015,
-            "rotX": 2.81575041E-07,
+            "rotX": 2.75233248E-07,
             "rotY": 359.984253,
-            "rotZ": -3.33442313E-06,
+            "rotZ": 3.282281E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10160,6 +10213,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10264,9 +10318,9 @@
             "posX": -37.5,
             "posY": 1.481499,
             "posZ": 16.5,
-            "rotX": -1.69831978E-07,
+            "rotX": -9.988155E-10,
             "rotY": 359.98822,
-            "rotZ": -1.54083551E-07,
+            "rotZ": -7.73315136E-08,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10286,6 +10340,7 @@
           },
           "Tags": [
             "Chaos Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10397,12 +10452,12 @@
           "GUID": "9af938",
           "Name": "Custom_PDF",
           "Transform": {
-            "posX": -36.449234,
-            "posY": 1.70694232,
+            "posX": -36.44923,
+            "posY": 1.70694268,
             "posZ": 34.04618,
             "rotX": 357.6935,
-            "rotY": 180.05249,
-            "rotZ": -1.86325087E-05,
+            "rotY": 180.052429,
+            "rotZ": -1.9631123E-05,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -10457,9 +10512,9 @@
         "posX": -16.95,
         "posY": 1.488579,
         "posZ": 27.1500015,
-        "rotX": 8.35754754E-09,
-        "rotY": 1.39675976E-05,
-        "rotZ": -1.2452638E-07,
+        "rotX": 5.61981253E-08,
+        "rotY": 1.39675376E-05,
+        "rotZ": -4.296327E-09,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -10531,9 +10586,9 @@
             "posX": -20.04583,
             "posY": 1.48150706,
             "posZ": 19.0851822,
-            "rotX": -5.473027E-07,
-            "rotY": -0.00491806353,
-            "rotZ": -8.24756353E-06,
+            "rotX": -1.06762172E-06,
+            "rotY": -0.004918063,
+            "rotZ": -9.42815E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10553,6 +10608,7 @@
           },
           "Tags": [
             "Death Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10654,9 +10710,9 @@
             "posX": -14.3438988,
             "posY": 1.48150718,
             "posZ": 19.0088043,
-            "rotX": 9.555712E-07,
+            "rotX": -8.154194E-07,
             "rotY": 359.977966,
-            "rotZ": -8.264446E-06,
+            "rotZ": -8.664313E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10676,6 +10732,7 @@
           },
           "Tags": [
             "Death Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -10777,9 +10834,9 @@
             "posX": -16.049839,
             "posY": 1.48149931,
             "posZ": 36.45013,
-            "rotX": -5.67116238E-08,
+            "rotX": -5.85706452E-08,
             "rotY": 179.986023,
-            "rotZ": 1.82652347E-08,
+            "rotZ": 1.60388272E-08,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -10834,9 +10891,9 @@
         "posX": 2.55000019,
         "posY": 1.48857892,
         "posZ": 26.5500011,
-        "rotX": 1.750935E-08,
-        "rotY": 0.004333466,
-        "rotZ": 1.34634814E-09,
+        "rotX": -4.74237645E-08,
+        "rotY": 0.00433346676,
+        "rotZ": -2.26863477E-07,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -10908,9 +10965,9 @@
             "posX": 2.13143444,
             "posY": 1.481499,
             "posZ": 19.9732323,
-            "rotX": 3.3904918E-08,
+            "rotX": 1.02626522E-07,
             "rotY": 359.985229,
-            "rotZ": 2.40058716E-06,
+            "rotZ": 3.360453E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -10930,6 +10987,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11031,12 +11089,12 @@
           "GUID": "85d472",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": -0.7474929,
+            "posX": -0.74749285,
             "posY": 1.481499,
             "posZ": 19.9740868,
-            "rotX": 6.563209E-07,
+            "rotX": 7.7665095E-07,
             "rotY": 359.979828,
-            "rotZ": -1.26372265E-06,
+            "rotZ": -1.05154322E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11056,6 +11114,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11157,12 +11216,12 @@
           "GUID": "ae5aef",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": 0.693524659,
+            "posX": 0.6935248,
             "posY": 1.481499,
             "posZ": 19.9734955,
-            "rotX": 7.774529E-07,
+            "rotX": 1.00300966E-07,
             "rotY": 359.977753,
-            "rotZ": 1.74608181E-06,
+            "rotZ": -1.41400722E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11182,6 +11241,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11283,12 +11343,12 @@
           "GUID": "4923d0",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": 0.325170159,
-            "posY": 1.48155165,
+            "posX": 0.325170219,
+            "posY": 1.48155761,
             "posZ": 17.63618,
-            "rotX": -0.0005455122,
+            "rotX": -0.000332442985,
             "rotY": 359.990753,
-            "rotZ": -0.000262804562,
+            "rotZ": -5.4696633E-05,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11308,6 +11368,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11420,11 +11481,11 @@
           "Name": "Custom_Model",
           "Transform": {
             "posX": -1.39178872,
-            "posY": 1.48153722,
-            "posZ": 17.6356964,
-            "rotX": 0.00300230179,
+            "posY": 1.48155713,
+            "posZ": 17.6356983,
+            "rotX": 0.000120837096,
             "rotY": 359.985229,
-            "rotZ": -0.00376065285,
+            "rotZ": -0.000312222983,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11444,6 +11505,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11558,9 +11620,9 @@
             "posX": 2.041934,
             "posY": 1.48149908,
             "posZ": 17.6361313,
-            "rotX": -1.404078E-07,
+            "rotX": -6.762624E-07,
             "rotY": 359.9926,
-            "rotZ": 1.14730221E-06,
+            "rotZ": -1.5165424E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11580,6 +11642,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11679,11 +11742,11 @@
           "Name": "Custom_Model",
           "Transform": {
             "posX": 3.571116,
-            "posY": 1.481499,
+            "posY": 1.48149884,
             "posZ": 19.9734154,
-            "rotX": -6.243282E-07,
+            "rotX": -5.56064151E-07,
             "rotY": 359.992371,
-            "rotZ": 1.635864E-06,
+            "rotZ": 1.37197787E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11703,6 +11766,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11814,12 +11878,12 @@
           "GUID": "22c3a8",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": 5.01084852,
-            "posY": 1.4931004,
-            "posZ": 19.9733257,
-            "rotX": 0.4483241,
-            "rotY": 0.000916136836,
-            "rotZ": 0.6846482,
+            "posX": 5.010848,
+            "posY": 1.49311447,
+            "posZ": 19.9733276,
+            "rotX": 0.443961769,
+            "rotY": 0.000898068363,
+            "rotZ": 0.688897967,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11839,6 +11903,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -11953,9 +12018,9 @@
             "posX": 3.759173,
             "posY": 1.481499,
             "posZ": 17.6361237,
-            "rotX": 1.04522655E-06,
+            "rotX": -1.27693636E-06,
             "rotY": 359.976746,
-            "rotZ": 1.84884618E-06,
+            "rotZ": 6.72666047E-08,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -11975,6 +12040,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -12086,12 +12152,12 @@
           "GUID": "412ab4",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": 5.476145,
-            "posY": 1.48156512,
-            "posZ": 17.6362133,
-            "rotX": -5.32987324E-05,
-            "rotY": 359.98,
-            "rotZ": 0.000268244359,
+            "posX": 5.47614431,
+            "posY": 1.48155165,
+            "posZ": 17.6362114,
+            "rotX": -0.000817754946,
+            "rotY": 359.97995,
+            "rotZ": 0.00403430453,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -12111,6 +12177,7 @@
           },
           "Tags": [
             "Death Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -12225,9 +12292,9 @@
             "posX": 9.300141,
             "posY": 1.48149931,
             "posZ": 34.8001556,
-            "rotX": -2.04445634E-08,
+            "rotX": -1.5907645E-08,
             "rotY": 179.953186,
-            "rotZ": 4.006085E-09,
+            "rotZ": -1.231385E-08,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -12282,9 +12349,9 @@
         "posX": 20.1669617,
         "posY": 1.488579,
         "posZ": 25.8836784,
-        "rotX": -5.45511059E-09,
+        "rotX": -2.6461997E-08,
         "rotY": 0.603068,
-        "rotZ": 5.59573143E-09,
+        "rotZ": -2.68711862E-08,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -12356,9 +12423,9 @@
             "posX": 15.6,
             "posY": 1.58501053,
             "posZ": 18.0,
-            "rotX": 4.538509E-06,
+            "rotX": 4.61948866E-06,
             "rotY": 0.0263900552,
-            "rotZ": -3.60524814E-06,
+            "rotZ": -3.60518038E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -12378,6 +12445,7 @@
           },
           "Tags": [
             "Destruction Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -12476,12 +12544,12 @@
           "GUID": "30de02",
           "Name": "Custom_Model",
           "Transform": {
-            "posX": 20.39996,
+            "posX": 20.3999577,
             "posY": 1.48150754,
             "posZ": 17.399992,
-            "rotX": -6.757467E-06,
-            "rotY": 0.000171247433,
-            "rotZ": 7.50290837E-06,
+            "rotX": -7.10262157E-06,
+            "rotY": 0.000172002066,
+            "rotZ": 5.112919E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -12501,6 +12569,7 @@
           },
           "Tags": [
             "Destruction Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -12602,9 +12671,9 @@
             "posX": 24.6,
             "posY": 1.481499,
             "posZ": 17.7,
-            "rotX": -8.689448E-07,
+            "rotX": 1.36334037E-07,
             "rotY": 359.966,
-            "rotZ": -6.143232E-07,
+            "rotZ": 5.125177E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -12624,6 +12693,7 @@
           },
           "Tags": [
             "Destruction Monsters",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -12805,9 +12875,9 @@
             "posX": 25.9500027,
             "posY": 1.48149931,
             "posZ": 35.8500061,
-            "rotX": -6.791368E-09,
+            "rotX": -1.16546106E-08,
             "rotY": 180.023346,
-            "rotZ": -3.310627E-09,
+            "rotZ": -6.187672E-09,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -12860,11 +12930,11 @@
       "Name": "Custom_Model_Bag",
       "Transform": {
         "posX": 38.4,
-        "posY": 1.48857892,
+        "posY": 1.488579,
         "posZ": 25.8000011,
-        "rotX": -4.87630558E-09,
-        "rotY": -0.00145594077,
-        "rotZ": 6.974909E-08,
+        "rotX": -8.995862E-09,
+        "rotY": -0.00145593891,
+        "rotZ": 5.56728352E-08,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -12936,9 +13006,9 @@
             "posX": 34.8000031,
             "posY": 1.481499,
             "posZ": 17.7,
-            "rotX": 2.79361984E-07,
+            "rotX": -8.813005E-07,
             "rotY": 359.978363,
-            "rotZ": -1.93704136E-06,
+            "rotZ": -6.674316E-08,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -12958,6 +13028,7 @@
           },
           "Tags": [
             "Destruction Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -13072,9 +13143,9 @@
             "posX": 37.861412,
             "posY": 1.481499,
             "posZ": 16.8877869,
-            "rotX": 1.61098683E-06,
+            "rotX": -3.1431702E-07,
             "rotY": 359.98,
-            "rotZ": -4.08989E-06,
+            "rotZ": -7.1719E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -13094,6 +13165,7 @@
           },
           "Tags": [
             "Destruction Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -13195,9 +13267,9 @@
             "posX": 41.7814255,
             "posY": 1.48149884,
             "posZ": 16.887785,
-            "rotX": -2.03516677E-07,
+            "rotX": -1.22919221E-06,
             "rotY": 359.980469,
-            "rotZ": -4.602027E-07,
+            "rotZ": -1.32047182E-06,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -13217,6 +13289,7 @@
           },
           "Tags": [
             "Destruction Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -13318,9 +13391,9 @@
             "posX": 39.82142,
             "posY": 1.481499,
             "posZ": 16.8877869,
-            "rotX": 1.620871E-06,
+            "rotX": 1.587507E-06,
             "rotY": 359.988434,
-            "rotZ": 3.46681873E-07,
+            "rotZ": 2.13283087E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -13340,6 +13413,7 @@
           },
           "Tags": [
             "Destruction Thralls",
+            "Operative",
             "warcry"
           ],
           "LayoutGroupSortIndex": 0,
@@ -13441,9 +13515,9 @@
             "posX": 44.25012,
             "posY": 1.48149931,
             "posZ": 36.75015,
-            "rotX": 9.829423E-09,
+            "rotX": 1.04896705E-08,
             "rotY": 179.9794,
-            "rotZ": -5.125605E-08,
+            "rotZ": -4.26628759E-08,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
@@ -13498,9 +13572,9 @@
         "posX": 64.05,
         "posY": 1.488579,
         "posZ": 25.6500015,
-        "rotX": 3.133766E-08,
-        "rotY": 0.008947109,
-        "rotZ": 1.13331953E-06,
+        "rotX": 3.511376E-08,
+        "rotY": 0.008947106,
+        "rotZ": 1.1403082E-06,
         "scaleX": 2.0,
         "scaleY": 2.0,
         "scaleZ": 2.0
@@ -13572,9 +13646,9 @@
             "posX": 56.2500038,
             "posY": 1.481499,
             "posZ": 16.6500015,
-            "rotX": 8.55004544E-07,
+            "rotX": 8.280625E-07,
             "rotY": 359.988831,
-            "rotZ": 7.39441759E-07,
+            "rotZ": -4.47832122E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -13593,6 +13667,7 @@
             "b": 0.0
           },
           "Tags": [
+            "Operative",
             "Order Monsters",
             "warcry"
           ],
@@ -13685,9 +13760,9 @@
             "posX": 60.0941734,
             "posY": 1.48149884,
             "posZ": 16.4467,
-            "rotX": -9.108495E-07,
-            "rotY": 359.9818,
-            "rotZ": 1.0536229E-06,
+            "rotX": 2.86440756E-08,
+            "rotY": 359.981842,
+            "rotZ": -3.560217E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -13706,6 +13781,7 @@
             "b": 0.0
           },
           "Tags": [
+            "Operative",
             "Order Monsters",
             "warcry"
           ],
@@ -13798,9 +13874,9 @@
             "posX": 63.0000038,
             "posY": 1.48149931,
             "posZ": 35.1000023,
-            "rotX": 2.12444462E-08,
+            "rotX": 2.80104135E-08,
             "rotY": 180.02092,
-            "rotZ": -2.11055333E-08,
+            "rotZ": -2.40653311E-08,
             "scaleX": 2.800913,
             "scaleY": 1.0,
             "scaleZ": 2.800913
